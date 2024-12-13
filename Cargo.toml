@@ -1,0 +1,9 @@
+[package]
+name = "crypt_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rpassword = "7.0"
+unicode-normalization = "0.1.22"
+rand = "0.8"
